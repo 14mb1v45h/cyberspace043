@@ -1,0 +1,27 @@
+# Ignore build files
+RAT-Dll/x64
+RAT-Dll/Debug
+RAT-Exe/x64
+Debug/
+x64/
+Release/
+__pycache__/
+TestFiles/
+
+# Ignore irrelevant studio files
+RAT-Dll/.vs
+RAT-Exe/.vs
+*.exe
+*.dll
+*.db-shm
+*.db-wal
+*.opendb
+*.iobj
+*.ipbd
+*.pdb
+*.suo
+*.tlog
+*.ilk
+*.psch
+*.vcxproj.filters
+*.vcxproj.user
